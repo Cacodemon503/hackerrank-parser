@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=hackerrank
+Comment=Funny litlle hackerrank parser
+Exec=/'PATH TO'/hackerrank
+Icon=/'PATH TO'/icon.png
+Terminal=true
+Type=Application
+
