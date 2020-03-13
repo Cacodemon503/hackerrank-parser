@@ -1,4 +1,4 @@
-## Launch Instructions
+## Launch Instructions for Windows
 
 1. Download zip archive or clone this repo to your system
 
