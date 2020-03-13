@@ -25,4 +25,10 @@
 
 3. Move `hackerrank.desktop` to `~/.local/share/applications/`
 
-4. If you setup the `hackerrank.desktop` file correctly, you will now be able to see it in your App List and will be able to move an app to your App Dock.  
+4. If you setup the `hackerrank.desktop` file correctly, you will now be able to see it in your App List and will be able to move an app to your App Dock. 
+
+# #----------------------OTHER OPTIONS-----------------------#
+
+### [WIN APP](https://github.com/Cacodemon503/hackerrank-parser/tree/windows)  
+
+### [SOURCE CODE](https://github.com/Cacodemon503/hackerrank-parser/tree/source)
