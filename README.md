@@ -63,6 +63,6 @@ If you want to make your scripts be easily executable on linux:
 
 # #----------------------OTHER OPTIONS-----------------------#
 
-### [LINUX APP]()  
+### [LINUX APP](https://github.com/Cacodemon503/hackerrank-parser/tree/master)  
 
-### [WIN APP]()
+### [WIN APP](https://github.com/Cacodemon503/hackerrank-parser/tree/windows)
