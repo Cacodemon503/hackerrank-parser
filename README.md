@@ -1,4 +1,8 @@
-# Launch instructions for Linux
+# HackerRank Parser
+Funny little hackerrank leader-boards parser with a GitHub checker feature 
+![screenshot](https://github.com/Cacodemon503/hackerrank-parser/blob/master/screenshot.png?raw=true)
+
+## Launch instructions for Linux
 
 ### The easiest:
 
