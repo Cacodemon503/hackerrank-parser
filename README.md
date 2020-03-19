@@ -15,9 +15,11 @@ Program has it's own menu and built in -help module.
 2. Open `cmd/powershell/terminal`.
 
 3.1. `cd ~/path to script directory` for Linux.
+
 3.2. `cd C:\Users\path to script directory` for Windows.
 
 4.1. `python3 ./SCRIPT-NAME.py` for Linux.
+
 4.2. `python3 ./SCRIPT-NAME.py` for Windows.
 
 5. Use [pyinstaller](https://www.pyinstaller.org/) to compilate it under your OS: `pyinstaller -F -i "ICON-NAME.ico" SCRIPT-NAME.py`.
